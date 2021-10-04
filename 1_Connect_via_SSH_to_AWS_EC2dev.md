@@ -1,5 +1,5 @@
-## Documentation about how to connect with SSH to an Amazon EC2 instance
-
+## Documentation about how to connect with SSH to an Amazon EC2 dev instance
+***
 -   Abrimos **Windows Terminal**
 -   Abrimos en una nueva pestaña un terminal de *Ubuntu*
 -   Regresamos a home
@@ -13,7 +13,7 @@
 
 <!-- -->
 
-    cp /mnt/c/Users/otto0/Downloads/omiag4v.pem .
+    cp /mnt/c/Users/Username/Downloads/omiag4v.pem .
 
 -   Revisar que se encuentra el archivo en el directorio
 
