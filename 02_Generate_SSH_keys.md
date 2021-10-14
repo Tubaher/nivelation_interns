@@ -1,5 +1,5 @@
-## Documentation about how to generate SSH keys: public, and private
-***
+# Documentation about how to generate SSH keys: public, and private
+
 -   Abrimos **Windows Terminal**
 -   Abrimos en una nueva pestaña un terminal de *Ubuntu*
 -   Regresamos a home

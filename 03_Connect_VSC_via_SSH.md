@@ -1,5 +1,5 @@
-## Documentation about how to use Visual Code with ssh
-***
+# Documentation about how to use Visual Code with ssh
+
 -   Abrimos **Visual Studio COde**
 -   Vamos a extensiones
 -   Instalamos Remote - SSH

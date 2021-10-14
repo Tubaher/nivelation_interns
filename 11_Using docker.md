@@ -26,7 +26,7 @@
 
 3. Change the directory to 
 <!-- -->
-    cd /samples/configs/tlt_pretrained_models/lpr_config
+    cd samples/configs/tlt_pretrained_models/lpr_config
 
 4. Then make a directory to save our QA videos
 <!-- -->

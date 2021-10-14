@@ -1,5 +1,5 @@
-## Extract videos, edit, separate into frames
-***
+# Extract videos, edit, separate into frames
+
 -   Una vez grabados nuestros videos vía **SSH** en la terminal de **Windows Poweshell** en **Windows Terminal**, nos conectados vía **SFTP** en otra pestaña con **Windows Poweshell** para extraer los videos
 -   Cambiamos de directorio a donde se encuentra nuestro video grabado
 <!-- -->

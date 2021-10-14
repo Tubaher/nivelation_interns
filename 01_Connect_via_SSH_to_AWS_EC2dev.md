@@ -1,5 +1,5 @@
-## Documentation about how to connect with SSH to an Amazon EC2 dev instance
-***
+# Documentation about how to connect with SSH to an Amazon EC2 dev instance
+
 -   Abrimos **Windows Terminal**
 -   Abrimos en una nueva pestaña un terminal de *Ubuntu*
 -   Regresamos a home

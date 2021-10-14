@@ -1,5 +1,5 @@
-## How to label plates
-***
+# How to label plates
+
 1. Descargamos la carpeta o zip donde se encuentren nuestras placas ya recortadas (es decir del mismo tamaño todas)
    
 2. Clonamos el respositorio:

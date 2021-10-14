@@ -1,5 +1,5 @@
-## How to use Git and upload changes to Github
-***
+# How to use Git and upload changes to Github
+
 ### Repositorio local (Git)
 1. Crear una carpeta donde van a estar nuestro proyecto y sus archivos (codes, data, readme, etc.)
    

@@ -1,6 +1,7 @@
-## Documentation about how to enter security cameras and retrieve videos
-***
+# Documentation about how to enter security cameras and retrieve videos
+
 ## Nos conectamos vía SSH a las cámaras para empezar a grabar
+
 -   Descargar **AnyDesk** [(Clic aquí)](https://anydesk.com/es)
 -   Abrimos **AnyDesk**
 -   Colocamos en el recuadro vacío: *349197840*
