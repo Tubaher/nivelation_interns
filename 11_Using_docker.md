@@ -8,7 +8,7 @@
 
 - Show active + inactive dockers
 <!-- -->
-    docker ps
+    docker ps -a
 
 - Start docker (In this case the docker that we are gonna use **ds_2021**)
 <!-- -->
