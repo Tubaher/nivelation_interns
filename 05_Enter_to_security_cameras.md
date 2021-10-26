@@ -4,8 +4,7 @@
 
 -   Descargar **AnyDesk** [(Clic aquí)](https://anydesk.com/es)
 -   Abrimos **AnyDesk**
--   Colocamos en el recuadro vacío nuestro code: 
--   *QN: 349197840* o para *G: 756649794*
+-   Colocamos en el recuadro vacío nuestro code: *QN: 349197840* o para *G: 756649794*
 -   Colocamos nuestra clave: xxxxx
 -   Clic al *'rayo'* en la parte superior de **AnyDesk**
 -   Clic al menú de *'Configuración de Túnel TCP'*
