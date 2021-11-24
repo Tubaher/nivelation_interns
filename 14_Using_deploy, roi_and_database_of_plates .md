@@ -58,13 +58,9 @@
 <!-- -->
     exit
 
-***
-
-18.  Now you can leave ecdev2 machine
+1.    And leave ecdev2 machine
 <!-- -->
     exit
-
-***
  
 # Enter to the database of plates
 
